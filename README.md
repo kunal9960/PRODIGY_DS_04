@@ -35,6 +35,6 @@ This project aims to delve into social media data using sentiment analysis techn
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to fork the repository and submit a pull request. You can also open an issue to report bugs or suggest enhancements.
 
 
-# Acknowledgments
+## Acknowledgments
 
 Feel free to contact me if you need help with any of the projects :)
